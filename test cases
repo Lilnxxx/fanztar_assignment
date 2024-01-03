@@ -1,0 +1,101 @@
+TEST CASES
+{ "components":['O', 'E', 'E', 'D', 'G']}
+{ "components":['B', 'K', 'M', 'C', 'J', 'K']}
+{ "components":['K', 'H', 'E', 'H']}
+{ "components":['B', 'J', 'I', 'A', 'E']}
+{ "components":['M', 'D', 'L', 'M', 'I', 'K']}
+{ "components":['J', 'B', 'N', 'I', 'H']}
+{ "components":['G', 'J', 'A', 'C', 'M', 'L']}
+{ "components":['B', 'H', 'J', 'A', 'K', 'D']}
+{ "components":['N', 'G', 'G', 'E', 'J']}
+{ "components":['L', 'J', 'O', 'M', 'A']}
+{ "components":['N', 'J', 'J', 'B', 'O', 'K']}
+{ "components":['D', 'C', 'C', 'C']}
+{ "components":['J', 'M', 'M', 'H', 'K']}
+{ "components":['D', 'J', 'E', 'F']}
+{ "components":['O', 'N', 'B', 'A', 'K']}
+{ "components":['H', 'H', 'L', 'B']}
+{ "components":['H', 'L', 'B', 'A', 'C']}
+{ "components":['J', 'F', 'M', 'D']}
+{ "components":['O', 'O', 'E', 'E']}
+{ "components":['G', 'D', 'A', 'G']}
+{ "components":['B', 'B', 'E', 'F', 'K']}
+{ "components":['I', 'F', 'J', 'N']}
+{ "components":['I', 'E', 'M', 'O', 'M']}
+{ "components":['G', 'E', 'J', 'C', 'I', 'C']}
+{ "components":['A', 'K', 'H', 'G', 'G', 'D']}
+{ "components":['B', 'F', 'C', 'M']}
+{ "components":['O', 'L', 'L', 'L']}
+{ "components":['G', 'I', 'K', 'A']}
+{ "components":['K', 'J', 'O', 'M', 'F', 'F']}
+{ "components":['H', 'A', 'K', 'K', 'N']}
+{ "components":['G', 'L', 'M', 'J']}
+{ "components":['E', 'E', 'E', 'G']}
+{ "components":['O', 'K', 'N', 'E', 'C']}
+{ "components":['N', 'M', 'E', 'B']}
+{ "components":['F', 'G', 'G', 'D', 'F', 'E']}
+{ "components":['A', 'D', 'F', 'D', 'E', 'D']}
+{ "components":['O', 'N', 'A', 'F']}
+{ "components":['D', 'N', 'D', 'G']}
+{ "components":['D', 'H', 'L', 'I', 'J', 'I']}
+{ "components":['K', 'I', 'D', 'L', 'E', 'B']}
+{ "components":['C', 'F', 'H', 'N', 'I', 'C']}
+{ "components":['H', 'H', 'G', 'B', 'J']}
+{ "components":['K', 'O', 'G', 'K']}
+{ "components":['O', 'N', 'B', 'L', 'J', 'K']}
+{ "components":['H', 'O', 'C', 'K', 'J']}
+{ "components":['F', 'C', 'C', 'J']}
+{ "components":['M', 'J', 'C', 'O']}
+{ "components":['F', 'K', 'M', 'N', 'E']}
+{ "components":['G', 'D', 'B', 'H', 'L', 'F']}
+{ "components":['E', 'B', 'L', 'D']}
+{ "components":['J', 'O', 'M', 'M']}
+{ "components":['A', 'L', 'I', 'E']}
+{ "components":['M', 'D', 'G', 'F', 'G', 'E']}
+{ "components":['I', 'L', 'F', 'N']}
+{ "components":['N', 'A', 'J', 'O', 'B', 'L']}
+{ "components":['G', 'E', 'N', 'L', 'A']}
+{ "components":['O', 'I', 'N', 'A', 'H', 'G']}
+{ "components":['E', 'C', 'H', 'A']}
+{ "components":['J', 'L', 'M', 'B', 'A']}
+{ "components":['C', 'C', 'K', 'I']}
+{ "components":['D', 'E', 'G', 'K', 'C']}
+{ "components":['L', 'N', 'D', 'N']}
+{ "components":['E', 'O', 'C', 'B', 'O']}
+{ "components":['M', 'A', 'L', 'H']}
+{ "components":['L', 'F', 'O', 'J', 'I', 'G']}
+{ "components":['M', 'H', 'O', 'O']}
+{ "components":['D', 'L', 'O', 'A']}
+{ "components":['N', 'M', 'D', 'B', 'N', 'J']}
+{ "components":['C', 'C', 'C', 'H', 'D', 'K']}
+{ "components":['E', 'O', 'N', 'E', 'O']}
+{ "components":['H', 'I', 'C', 'E']}
+{ "components":['H', 'E', 'D', 'A', 'C']}
+{ "components":['M', 'B', 'D', 'A', 'M', 'N']}
+{ "components":['E', 'A', 'C', 'G']}
+{ "components":['E', 'A', 'F', 'J', 'N', 'O']}
+{ "components":['M', 'O', 'G', 'C', 'O']}
+{ "components":['M', 'B', 'I', 'K', 'K', 'D']}
+{ "components":['H', 'D', 'A', 'C']}
+{ "components":['J', 'D', 'L', 'B']}
+{ "components":['D', 'I', 'B', 'D']}
+{ "components":['J', 'N', 'F', 'E']}
+{ "components":['O', 'G', 'C', 'J']}
+{ "components":['D', 'J', 'H', 'L']}
+{ "components":['O', 'L', 'L', 'I']}
+{ "components":['B', 'H', 'J', 'A', 'N']}
+{ "components":['H', 'J', 'G', 'G', 'N', 'L']}
+{ "components":['D', 'D', 'F', 'A', 'J', 'M']}
+{ "components":['O', 'E', 'L', 'E', 'L']}
+{ "components":['O', 'H', 'M', 'L']}
+{ "components":['E', 'G', 'O', 'A', 'M']}
+{ "components":['O', 'A', 'K', 'N', 'N', 'D']}
+{ "components":['D', 'C', 'C', 'L', 'B', 'G']}
+{ "components":['G', 'B', 'J', 'M']}
+{ "components":['F', 'D', 'N', 'M', 'F']}
+{ "components":['H', 'C', 'O', 'I', 'K', 'A']}
+{ "components":['G', 'M', 'G', 'C']}
+{ "components":['H', 'J', 'N', 'M', 'C', 'D']}
+{ "components":['L', 'E', 'O', 'G', 'D', 'O']}
+{ "components":['O', 'H', 'N', 'C']}
+{ "components":['J', 'G', 'J', 'D']}
